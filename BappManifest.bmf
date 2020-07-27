@@ -2,10 +2,11 @@ Uuid: 3144e67e904a4fdf91ea96cf4c694c39
 ExtensionType: 2
 Name: LightBulb WAF Auditing Framework
 RepoName: lightbulb-framework
-ScreenVersion: 1.0
-SerialVersion: 1
+ScreenVersion: 1.0.19
+SerialVersion: 3
 MinPlatformVersion: 2
 ProOnly: False
 Author: George Argyros, Ioannis Stais
 ShortDescription: An open source python framework for auditing WAFs and Filters.
 EntryPoint: BurpExtension.py
+BuildCommand: 
